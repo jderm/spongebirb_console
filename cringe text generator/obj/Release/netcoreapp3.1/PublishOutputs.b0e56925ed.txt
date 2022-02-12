@@ -1,0 +1,5 @@
+D:\Programing projects\cringe text generator\Publish\cringe text generator.exe
+D:\Programing projects\cringe text generator\Publish\cringe text generator.dll
+D:\Programing projects\cringe text generator\Publish\cringe text generator.deps.json
+D:\Programing projects\cringe text generator\Publish\cringe text generator.runtimeconfig.json
+D:\Programing projects\cringe text generator\Publish\cringe text generator.pdb
