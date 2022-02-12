@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programing projects\\cringe text generator\\cringe text generator\\cringe text generator.csproj",
+      "projectUniqueName": "D:\\GitHub\\spongebob-birb-cringe-text-generator\\cringe text generator\\cringe text generator.csproj",
       "projectName": "cringe text generator",
-      "projectPath": "D:\\Programing projects\\cringe text generator\\cringe text generator\\cringe text generator.csproj",
+      "projectPath": "D:\\GitHub\\spongebob-birb-cringe-text-generator\\cringe text generator\\cringe text generator.csproj",
       "packagesPath": "C:\\Users\\mrcra\\.nuget\\packages\\",
-      "outputPath": "D:\\Programing projects\\cringe text generator\\cringe text generator\\obj\\publish\\win-x86\\",
+      "outputPath": "D:\\GitHub\\spongebob-birb-cringe-text-generator\\cringe text generator\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

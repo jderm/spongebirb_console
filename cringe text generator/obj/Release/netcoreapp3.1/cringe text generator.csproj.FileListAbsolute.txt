@@ -12,3 +12,17 @@ D:\Programing projects\cringe text generator\cringe text generator\obj\Release\n
 D:\Programing projects\cringe text generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.dll
 D:\Programing projects\cringe text generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.pdb
 D:\Programing projects\cringe text generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.genruntimeconfig.cache
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\bin\Release\netcoreapp3.1\cringe text generator.exe
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\bin\Release\netcoreapp3.1\cringe text generator.deps.json
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\bin\Release\netcoreapp3.1\cringe text generator.runtimeconfig.json
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\bin\Release\netcoreapp3.1\cringe text generator.runtimeconfig.dev.json
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\bin\Release\netcoreapp3.1\cringe text generator.dll
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\bin\Release\netcoreapp3.1\cringe text generator.pdb
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.csproj.AssemblyReference.cache
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.AssemblyInfoInputs.cache
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.AssemblyInfo.cs
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.csproj.CoreCompileInputs.cache
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.dll
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.pdb
+D:\GitHub\spongebob-birb-cringe-text-generator\cringe text generator\obj\Release\netcoreapp3.1\cringe text generator.genruntimeconfig.cache

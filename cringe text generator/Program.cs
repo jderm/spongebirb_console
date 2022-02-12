@@ -9,11 +9,15 @@ namespace cringe_text_generator
         {
             Console.InputEncoding = System.Text.Encoding.Unicode;
             Console.OutputEncoding = System.Text.Encoding.Unicode;
-            if (args.Length == 0)
+            if (args.Length == 0 || String.IsNullOrWhiteSpace(args[0]))
             {
                 Console.Clear();
                 Console.WriteLine("Enter your text: ");
                 string input = Console.ReadLine();
+                if(String.IsNullOrWhiteSpace(input))
+                {
+                    Main(new string[0]);
+                }
                 SpongebobBirdText(input);
             }
 

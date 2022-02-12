@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/9WQcjKJJFBbJbJ7QDtWpjI8h7RNpdEeJON86C/LTUp1p9GcwuQ28tYFu7yvd7s0Cg0/lLumZvFtPcnk7petrQ==",
+  "dgSpecHash": "AHHdi8cVpy37Y9oqo29YMiB+zHUQkXnLHaf6gcVnhQc61gFSjkBECCVBCrEN/uyywKCxNEBNFDtUnyvPSQxYhg==",
   "success": true,
-  "projectFilePath": "D:\\Programing projects\\cringe text generator\\cringe text generator\\cringe text generator.csproj",
+  "projectFilePath": "D:\\GitHub\\spongebob-birb-cringe-text-generator\\cringe text generator\\cringe text generator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrcra\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.22\\microsoft.netcore.app.runtime.win-x86.3.1.22.nupkg.sha512",
     "C:\\Users\\mrcra\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.22.nupkg.sha512",
